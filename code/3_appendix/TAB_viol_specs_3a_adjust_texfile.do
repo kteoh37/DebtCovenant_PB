@@ -1,6 +1,8 @@
+// Cleans and formats additional specification LaTeX tables for export.
+// Handles combined core covenant and Dealscan specifications.
 clear 
-global datdir "/Users/kenteoh/Dropbox/debt_covenant/data"
-global outdir "/Users/kenteoh/Dropbox/debt_covenant/output_jfi"
+global datdir "/path/to/data"
+global outdir "/path/to/output"
 
 ** adjust stacked (main) or interact (appendix) file
 loc file "corecov_dsc_may2025" 

@@ -1,7 +1,9 @@
+// Evaluates employment responses to covenant violations using annual data.
+// Runs regressions on employment growth and related measures.
 
 clear 
-global datdir "/Users/kenteoh/Dropbox/debt_covenant/data_jfi_fin"
-global outdir "/Users/kenteoh/Dropbox/debt_covenant/output_jfi_fin"
+global datdir "/path/to/data"
+global outdir "/path/to/output"
 
 ** load annual dataset
 use "$datdir/my_combined_variables_annual_aws_jfi_check", clear  

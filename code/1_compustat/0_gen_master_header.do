@@ -1,8 +1,8 @@
-// generate master link table
-// gvkey-cik-cusip-repid
+// Create master table linking Compustat gvkeys to CIK, CUSIP, and report identifiers.
+// Standardizes dates and removes duplicates to facilitate merging across datasets.
 
 clear 
-global maindir "/Users/kenteoh/Dropbox/debt_covenant"
+global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"
 global datdir "$maindir/data_jfi_fin"
 

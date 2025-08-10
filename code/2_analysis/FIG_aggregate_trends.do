@@ -1,9 +1,9 @@
-// plot anticipated and unanticipated violation
-// Construct sample of Compustat with SEC filings
+// Plots aggregate trends of anticipated and confirmed covenant violations over time.
+// Utilizes combined quarterly data to construct annual counts for visualization.
 
 clear 
-global datdir "/Users/kenteoh/Dropbox/debt_covenant/data_jfi_fin"
-global outdir "/Users/kenteoh/Dropbox/debt_covenant/output_jfi_fin"
+global datdir "/path/to/data"
+global outdir "/path/to/output"
 
 **** load quarterly dataset 
 use "$datdir/my_combined_variables_quarterly_aws_jfi_check", clear 

@@ -1,7 +1,8 @@
-* this version maintains data at the firm-quarter-covenant level. 
+* Creates a comprehensive firm-quarter dataset combining Compustat, covenant, earnings call,
+* EDGAR, Dealscan, and rating information while retaining covenant-level detail.
 
 clear 
-global maindir "/Users/kenteoh/Dropbox/debt_covenant"
+global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"
 global datdir "$maindir/data_jfi_fin"
 

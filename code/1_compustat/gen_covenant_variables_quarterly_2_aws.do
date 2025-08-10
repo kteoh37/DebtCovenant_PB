@@ -1,7 +1,8 @@
-// construct covenant variables from compustat 
+// Derive covenant-related ratios from quarterly Compustat financial statements.
+// Cleans and deduplicates observations to measure firm covenant slack over time.
 
 clear 
-global maindir "/Users/kenteoh/Dropbox/debt_covenant"
+global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"
 global datdir "$maindir/data_jfi_fin"
 

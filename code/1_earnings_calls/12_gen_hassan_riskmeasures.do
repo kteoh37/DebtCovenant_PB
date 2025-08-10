@@ -1,7 +1,8 @@
-* measures of risk from Tarek Hassan's website
+* Cleans risk measures from Tarek Hassan's dataset and aligns them with gvkey identifiers.
+* Converts dates to Stata format and saves a processed file for merging.
 
 clear 
-global maindir "/Users/kenteoh/Dropbox/debt_covenant"
+global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"
 global datdir "$maindir/data_jfi_fin"
 

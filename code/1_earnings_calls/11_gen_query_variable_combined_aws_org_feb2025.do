@@ -1,7 +1,8 @@
-// generate has_query variable with cusip match 
+// Builds covenant query indicators for earnings calls and matches them to firm CUSIPs.
+// Merges sentiment scores and call metadata to create text-based measures of covenant concerns.
 
 clear 
-global maindir "/Users/kenteoh/Dropbox/debt_covenant"
+global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"
 global datdir "$maindir/data_jfi_fin"
 

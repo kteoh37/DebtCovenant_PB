@@ -1,8 +1,9 @@
-** this is also APX_cross_section in code_jfi
+** Computes the share of firms that mention covenants or experience violations in earnings calls.
+** Summarizes results across ratings, size, and industry subsamples.
 
 clear 
-global datdir "/Users/kenteoh/Dropbox/debt_covenant/data_jfi_fin"
-global outdir "/Users/kenteoh/Dropbox/debt_covenant/output_jfi_fin"
+global datdir "/path/to/data"
+global outdir "/path/to/output"
 
 * load data
 use "$datdir/my_combined_variables_quarterly_aws_jfi_check", clear 

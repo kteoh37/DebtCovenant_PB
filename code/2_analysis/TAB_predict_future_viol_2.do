@@ -1,9 +1,9 @@
-*** predict future violations with anticipation -- variable by variable
-** version: August 2024
+*** Estimates models predicting future covenant violations using anticipation measures and financial controls.
+** Version: August 2024
 
 clear 
-global datdir "/Users/kenteoh/Dropbox/debt_covenant/data_jfi_fin"
-global outdir "/Users/kenteoh/Dropbox/debt_covenant/output_jfi_fin"
+global datdir "/path/to/data"
+global outdir "/path/to/output"
 
 **** load quarterly dataset 
 use "$datdir/my_combined_variables_quarterly_aws_jfi_check", clear 

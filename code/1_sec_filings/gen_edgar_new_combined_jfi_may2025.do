@@ -1,7 +1,8 @@
-// this version uses MDA extracted from SEC API
+// Integrates SEC MD&A text extracted via the agency API with violation and amendment flags.
+// Produces a combined EDGAR dataset for linking filings to firm-level data.
 
 clear 
-global maindir "/Users/kenteoh/Dropbox/debt_covenant"
+global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"
 global datdir "$maindir/data_jfi_fin"
 

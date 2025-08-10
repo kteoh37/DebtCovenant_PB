@@ -1,8 +1,8 @@
-* update calls linkage 
-* version: July 13, 2023
+* Builds a crosswalk linking FactSet earnings call entity IDs to CUSIPs and Compustat gvkeys.
+* Facilitates matching of transcript data to financial records.
 
 clear 
-global maindir "/Users/kenteoh/Dropbox/debt_covenant"
+global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"
 global datdir "$maindir/data_jfi_fin"
 global metdir "$rawdir/factset"

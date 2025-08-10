@@ -1,8 +1,9 @@
-* analyze firm-level determinants of covenant concerns
+* Examines how earnings and leverage relate to covenant concern indicators.
+* Constructs quantile-based measures and produces appendix figures.
 
 clear
-global datdir "/Users/kenteoh/Dropbox/debt_covenant/data_jfi_fin"
-global outdir "/Users/kenteoh/Dropbox/debt_covenant/output_jfi_fin"
+global datdir "/path/to/data"
+global outdir "/path/to/output"
 
 * ----------------------------------------------------------------------------
 * load data

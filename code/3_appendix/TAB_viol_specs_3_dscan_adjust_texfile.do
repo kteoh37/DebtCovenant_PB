@@ -1,6 +1,8 @@
+// Cleans and formats Dealscan-based violation specification LaTeX tables for export.
+// Adds headers and removes placeholder artifacts.
 clear 
-global datdir "/Users/kenteoh/Dropbox/debt_covenant/data_jfi_fin"
-global outdir "/Users/kenteoh/Dropbox/debt_covenant/output_jfi_fin"
+global datdir "/path/to/data"
+global outdir "/path/to/output"
 
 ** adjust stacked (main) or interact (appendix) file
 loc file "dscan_may2025" 

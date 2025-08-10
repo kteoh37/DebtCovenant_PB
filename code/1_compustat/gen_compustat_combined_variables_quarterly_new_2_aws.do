@@ -1,7 +1,8 @@
-// construct quarterly compustat 
+// Assemble a cleaned quarterly Compustat panel with standardized identifiers and dates.
+// Interpolates key financial items to create firm-quarter variables for later merges.
 
 clear 
-global maindir "/Users/kenteoh/Dropbox/debt_covenant"
+global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"
 global datdir "$maindir/data_jfi_fin"
 

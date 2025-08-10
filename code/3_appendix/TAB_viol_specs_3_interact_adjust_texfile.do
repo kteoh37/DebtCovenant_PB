@@ -1,6 +1,8 @@
+// Cleans and formats interaction specification LaTeX tables for export.
+// Inserts headers and removes placeholder characters.
 clear 
-global datdir "/Users/kenteoh/Dropbox/debt_covenant/data_jfi_fin"
-global outdir "/Users/kenteoh/Dropbox/debt_covenant/output_jfi_fin"
+global datdir "/path/to/data"
+global outdir "/path/to/output"
 
 ** adjust stacked (main) or interact (appendix) file
 loc file "interact_may2025" 

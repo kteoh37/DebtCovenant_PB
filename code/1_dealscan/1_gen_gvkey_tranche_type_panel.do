@@ -1,5 +1,7 @@
+// Generates a panel of Dealscan tranche types linked to Compustat gvkeys.
+// Restricts to LIBOR tranches and standardizes dates to analyze tranche-level activity.
 clear 
-global maindir "/Users/kenteoh/Dropbox/debt_covenant"
+global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"
 global datdir "$maindir/data_jfi_fin"
 

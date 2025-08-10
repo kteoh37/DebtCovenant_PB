@@ -1,7 +1,8 @@
-* sample check
+* Performs diagnostic checks on the quarterly combined dataset.
+* Creates anticipated violation indicators and lagged measures at the firm-quarter level.
 
 clear 
-global maindir "/Users/kenteoh/Dropbox/debt_covenant"
+global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"
 global datdir "$maindir/data_jfi_fin"
 

@@ -1,9 +1,9 @@
-** v3: combine investment + financing, operating + financial access
-	** this is the same as v2a
+** Cleans and formats LaTeX tables for main violation regression specifications.
+** Adds headers and removes artifacts for publication-quality output.
 
 clear 
-global datdir "/Users/kenteoh/Dropbox/debt_covenant/data_jfi_fin"
-global outdir "/Users/kenteoh/Dropbox/debt_covenant/output_jfi_fin"
+global datdir "/path/to/data"
+global outdir "/path/to/output"
 
 ** adjust stacked (main) or interact (appendix) file
 loc file "stacked_may2025" 

@@ -1,7 +1,8 @@
-// construct annual compustat 
+// Assemble annual Compustat financials and interpolate missing balance sheet items.
+// Produces firm-year variables used in covenant and performance analyses.
 
 clear 
-global maindir "/Users/kenteoh/Dropbox/debt_covenant"
+global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"
 global datdir "$maindir/data_jfi_fin"
 
