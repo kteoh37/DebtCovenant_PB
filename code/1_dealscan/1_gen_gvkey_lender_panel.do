@@ -1,6 +1,5 @@
 // Builds a panel linking Dealscan loans to lending institutions using Compustat gvkeys.
 // Restricts to lead arrangers and cleans dates to examine lender exposure over time.
-=======
 // Generate panel dataset of lenders from Dealscan
 
 clear 

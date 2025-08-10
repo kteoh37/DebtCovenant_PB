@@ -17,7 +17,7 @@ If you use this code or data, please cite as:
 ### Usage
 
 Please see comments within the scripts for instructions on running the code.  
-The analysis was conducted using Python 3.9.3 and Stata 17; dependencies are listed in `requirements.txt` where applicable.
+The analysis was conducted using Python 3.9.6 and Stata 17.
 
 ### License
 

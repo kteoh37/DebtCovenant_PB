@@ -1,6 +1,5 @@
 // Cleans and formats the control specification LaTeX table for export.
 // Standardizes headers and removes placeholder characters.
-=======
 // Adjust control specification table for export
 
 clear 

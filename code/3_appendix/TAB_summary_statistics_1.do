@@ -1,6 +1,5 @@
 // Produces summary statistics for key financial and outcome variables.
 // Uses combined quarterly data to compute forward-looking changes and controls.
-=======
 // Produce summary statistics table
 
 clear 

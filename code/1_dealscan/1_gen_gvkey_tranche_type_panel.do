@@ -1,6 +1,5 @@
 // Generates a panel of Dealscan tranche types linked to Compustat gvkeys.
 // Restricts to LIBOR tranches and standardizes dates to analyze tranche-level activity.
-=======
 // Generate panel dataset of tranche types from Dealscan
 
 clear 

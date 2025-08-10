@@ -1,6 +1,5 @@
 // Cleans and formats the employment specification LaTeX table for export.
 // Adds headers and removes placeholder characters.
-=======
 // Adjust employment specification table for export
 
 clear 

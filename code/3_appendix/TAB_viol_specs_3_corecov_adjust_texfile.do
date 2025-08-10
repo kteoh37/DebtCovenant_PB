@@ -1,6 +1,5 @@
 // Cleans and formats the core covenant specification LaTeX table for appendix export.
 // Adds headers and removes placeholder characters.
-=======
 // Adjust core covenant specification table for export
 
 clear 
