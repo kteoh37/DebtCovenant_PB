@@ -1,5 +1,8 @@
 // Creates a panel of Dealscan loan types matched to Compustat gvkeys.
 // Cleans maturity dates and lender counts to analyze debt structure by loan category.
+=======
+// Generate panel dataset of loan types from Dealscan
+
 clear 
 global maindir "/path/to/project"
 global rawdir "$maindir/rawdata_jfi_fin"

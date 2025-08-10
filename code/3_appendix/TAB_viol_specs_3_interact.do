@@ -1,5 +1,8 @@
 // Tests interaction effects between covenant violations and firm characteristics.
 // Computes forward changes and tabulates regression results with interactions.
+=======
+// Tabulate interaction specification results
+
 clear 
 global datdir "/path/to/data"
 global outdir "/path/to/output"

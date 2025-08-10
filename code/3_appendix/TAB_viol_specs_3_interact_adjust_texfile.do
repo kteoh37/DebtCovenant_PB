@@ -1,5 +1,8 @@
 // Cleans and formats interaction specification LaTeX tables for export.
 // Inserts headers and removes placeholder characters.
+=======
+// Adjust interaction specification table for export
+
 clear 
 global datdir "/path/to/data"
 global outdir "/path/to/output"

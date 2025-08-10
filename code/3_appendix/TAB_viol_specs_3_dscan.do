@@ -1,5 +1,8 @@
 // Runs violation specification regressions incorporating Dealscan loan variables.
 // Generates tables comparing outcomes with baseline models.
+=======
+// Tabulate violation specifications using Dealscan variables
+
 clear 
 global datdir "/path/to/data"
 global outdir "/path/to/output"

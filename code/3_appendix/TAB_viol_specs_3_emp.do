@@ -1,5 +1,7 @@
 // Evaluates employment responses to covenant violations using annual data.
 // Runs regressions on employment growth and related measures.
+=======
+// Tabulate employment specification results
 
 clear 
 global datdir "/path/to/data"
