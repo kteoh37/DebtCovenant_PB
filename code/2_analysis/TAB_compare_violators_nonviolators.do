@@ -1,4 +1,4 @@
-** predict violation
+** Compares firm characteristics of covenant violators and non-violators using quarterly data.
 
 clear 
 global datdir "/path/to/data"

@@ -1,4 +1,5 @@
-// construct quarterly compustat 
+// Assemble a cleaned quarterly Compustat panel with standardized identifiers and dates.
+// Interpolates key financial items to create firm-quarter variables for later merges.
 
 clear 
 global maindir "/path/to/project"

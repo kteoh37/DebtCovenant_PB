@@ -1,3 +1,6 @@
+// Runs violation specifications on firms with core financial covenants.
+// Tabulates regression results for comparison with baseline models.
+=======
 // Tabulate core covenant specification results
 
 clear 

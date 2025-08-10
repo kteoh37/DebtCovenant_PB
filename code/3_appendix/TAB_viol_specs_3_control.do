@@ -1,4 +1,5 @@
-// Covenant violation analysis
+// Examines covenant violation effects with additional control variables.
+// Computes forward changes in firm outcomes for robustness analysis.
 
 clear 
 global datdir "/path/to/data"

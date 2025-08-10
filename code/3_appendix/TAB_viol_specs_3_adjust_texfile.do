@@ -1,4 +1,8 @@
+// Cleans and formats the main violation specification LaTeX table for export.
+// Adds headers and removes placeholder characters for appendix presentation.
+=======
 // Adjust main violation specification table for export
+
 clear 
 global datdir "/path/to/data"
 global outdir "/path/to/output"

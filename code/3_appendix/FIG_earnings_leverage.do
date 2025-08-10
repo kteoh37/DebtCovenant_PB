@@ -1,4 +1,5 @@
-* analyze firm-level determinants of covenant concerns
+* Examines how earnings and leverage relate to covenant concern indicators.
+* Constructs quantile-based measures and produces appendix figures.
 
 clear
 global datdir "/path/to/data"

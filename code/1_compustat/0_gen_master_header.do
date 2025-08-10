@@ -1,5 +1,5 @@
-// generate master link table
-// gvkey-cik-cusip-repid
+// Create master table linking Compustat gvkeys to CIK, CUSIP, and report identifiers.
+// Standardizes dates and removes duplicates to facilitate merging across datasets.
 
 clear 
 global maindir "/path/to/project"

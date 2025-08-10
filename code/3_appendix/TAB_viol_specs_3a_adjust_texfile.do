@@ -1,4 +1,8 @@
+// Cleans and formats additional specification LaTeX tables for export.
+// Handles combined core covenant and Dealscan specifications.
+=======
 // Adjust additional specification table for export
+
 clear 
 global datdir "/path/to/data"
 global outdir "/path/to/output"

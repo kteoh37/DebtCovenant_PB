@@ -1,4 +1,5 @@
-// Covenant violation analysis
+// Examines consequences of covenant violations on subsequent firm outcomes.
+// Computes forward changes in size, leverage, ratings, and financing activities.
 
 clear 
 global datdir "/path/to/data"

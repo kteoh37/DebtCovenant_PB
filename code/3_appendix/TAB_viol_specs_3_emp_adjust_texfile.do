@@ -1,4 +1,8 @@
+// Cleans and formats the employment specification LaTeX table for export.
+// Adds headers and removes placeholder characters.
+=======
 // Adjust employment specification table for export
+
 clear 
 global datdir "/path/to/data"
 global outdir "/path/to/output"

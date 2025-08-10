@@ -1,4 +1,5 @@
-// compute distance to threshold (quartelry)
+// Calculates quarterly distance-to-threshold measures for financial covenants.
+// Merges Compustat ratios with Dealscan covenant levels to gauge available slack.
 
 clear 
 global maindir "/path/to/project"

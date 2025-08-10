@@ -1,5 +1,6 @@
-*** construct annual combined variables (to calculate employment growth effect)
-** Nov 5, 2024
+*** Build annual dataset by merging Compustat, covenant violation, earnings call, EDGAR,
+*** and Dealscan sources to study employment growth effects.
+** Updated Nov 5, 2024
 
 * keep important quarterly variables
 clear 

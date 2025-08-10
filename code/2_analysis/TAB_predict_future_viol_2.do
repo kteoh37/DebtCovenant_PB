@@ -1,5 +1,5 @@
-*** predict future violations with anticipation -- variable by variable
-** version: August 2024
+*** Estimates models predicting future covenant violations using anticipation measures and financial controls.
+** Version: August 2024
 
 clear 
 global datdir "/path/to/data"

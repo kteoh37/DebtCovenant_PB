@@ -1,4 +1,8 @@
+// Cleans and formats Dealscan-based violation specification LaTeX tables for export.
+// Adds headers and removes placeholder artifacts.
+=======
 // Adjust Dealscan specification table for export
+
 clear 
 global datdir "/path/to/data"
 global outdir "/path/to/output"

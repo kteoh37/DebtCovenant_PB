@@ -1,4 +1,5 @@
-* sample check
+* Performs diagnostic checks on the quarterly combined dataset.
+* Creates anticipated violation indicators and lagged measures at the firm-quarter level.
 
 clear 
 global maindir "/path/to/project"

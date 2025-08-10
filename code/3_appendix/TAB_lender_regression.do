@@ -1,4 +1,5 @@
-* Assess whether loan level characteristics affect covenant concerns 
+* Explores how lender and loan characteristics relate to covenant concerns.
+* Merges Dealscan lender data with firm-quarter observations for regression analysis.
 
 	
 clear 

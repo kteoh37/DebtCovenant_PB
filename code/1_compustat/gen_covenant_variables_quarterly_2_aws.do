@@ -1,4 +1,5 @@
-// construct covenant variables from compustat 
+// Derive covenant-related ratios from quarterly Compustat financial statements.
+// Cleans and deduplicates observations to measure firm covenant slack over time.
 
 clear 
 global maindir "/path/to/project"

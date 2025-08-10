@@ -1,4 +1,5 @@
-** this is also APX_cross_section in code_jfi
+** Computes the share of firms that mention covenants or experience violations in earnings calls.
+** Summarizes results across ratings, size, and industry subsamples.
 
 clear 
 global datdir "/path/to/data"

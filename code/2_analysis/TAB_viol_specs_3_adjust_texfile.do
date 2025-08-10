@@ -1,5 +1,5 @@
-** v3: combine investment + financing, operating + financial access
-	** this is the same as v2a
+** Cleans and formats LaTeX tables for main violation regression specifications.
+** Adds headers and removes artifacts for publication-quality output.
 
 clear 
 global datdir "/path/to/data"

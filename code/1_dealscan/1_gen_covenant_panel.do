@@ -1,6 +1,5 @@
-// convert dealscan data to panel form
-// see clean_dealscan_new_2 for python code
-// last modified: June 27, 2022
+// Converts Dealscan covenant observations into a borrower-quarter panel for analysis.
+// Uses preprocessed outputs and reshapes covenant terms to track thresholds over time.
 
 clear 
 global maindir "/path/to/project"

@@ -1,5 +1,5 @@
-// plot anticipated and unanticipated violation
-// Construct sample of Compustat with SEC filings
+// Plots aggregate trends of anticipated and confirmed covenant violations over time.
+// Utilizes combined quarterly data to construct annual counts for visualization.
 
 clear 
 global datdir "/path/to/data"

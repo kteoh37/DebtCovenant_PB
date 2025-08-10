@@ -1,4 +1,5 @@
-// analyze griffin's violation data
+// Processes Griffin's covenant violation dataset and standardizes date fields.
+// Outputs a cleaned file for merging with Compustat and other sources.
 
 clear 
 global maindir "/path/to/project"

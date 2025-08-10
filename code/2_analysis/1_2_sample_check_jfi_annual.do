@@ -1,4 +1,5 @@
-* sample check
+* Performs diagnostic checks on the annual combined dataset.
+* Generates anticipated violation indicators and lagged variables for summary analysis.
 
 clear 
 global maindir "/path/to/project"
