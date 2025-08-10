@@ -1,6 +1,7 @@
+// Adjust main violation specification table for export
 clear 
-global datdir "/Users/kenteoh/Dropbox/debt_covenant/data_jfi_fin"
-global outdir "/Users/kenteoh/Dropbox/debt_covenant/output_jfi_fin"
+global datdir "/path/to/data"
+global outdir "/path/to/output"
 
 ** adjust stacked (main) or interact (appendix) file
 loc file "stacked_may2025" 
